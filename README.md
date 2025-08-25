@@ -15,3 +15,22 @@ Play against a friend and enjoy the classic 3×3 grid game!
 
 ## 📂 Project Structure
 
+┣ 📜 index.html
+┣ 📜 style.css
+┗ 📜 script.js
+
+## ▶️ How to Play
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/DIVYANSHKUMAR5133/Tic-Tac-Toe.git
+
+  ## Open index.html in your browser.
+
+Player X and O take turns clicking on the grid.
+
+The first to make a line of three (row, column, or diagonal) wins.
+
+If the board is full and no one wins → Match is a Draw.
+
+🖼️ Screenshot
+![Tic Tac Toe Screenshot](screenshots/preview.png)
