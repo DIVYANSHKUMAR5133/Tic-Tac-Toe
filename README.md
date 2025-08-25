@@ -39,4 +39,7 @@ Play against a friend and enjoy the classic 3×3 grid game!
 ![Tic-Tac-Toe Preview](https://github.com/DIVYANSHKUMAR5133/Tic-Tac-Toe/blob/main/Screenshot/Screenshot%202025-08-25%20194116.png?raw=true)
 ![Tic-Tac-Toe Preview](https://github.com/DIVYANSHKUMAR5133/Tic-Tac-Toe/blob/main/Screenshot/Screenshot%202025-08-25%20194139.png?raw=true)
 
+## 🔗 Live Demo
+👉 [Play Now](https://tictactoegameva.netlify.app/).
+
 
