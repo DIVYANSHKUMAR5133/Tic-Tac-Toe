@@ -33,4 +33,4 @@ The first to make a line of three (row, column, or diagonal) wins.
 If the board is full and no one wins → Match is a Draw.
 
 🖼️ Screenshot
-![Tic Tac Toe Screenshot](screenshots/preview.png)
+![Tic Tac Toe Screenshot] (https://github.com/DIVYANSHKUMAR5133/Tic-Tac-Toe/blob/main/Screenshot/Screenshot%202025-08-25%20190246.png?raw=true)
